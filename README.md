@@ -5,7 +5,7 @@ The purpose of this project is to design, build, train and test a deep learning 
 Predict passenger survival on the Titanic
 
 # Model
-Binary Clasification Artificial Neural Network
+Binary Clasification Artificial Neural Network - Two Hidden Layers
 
 # Built With
 R-studio
