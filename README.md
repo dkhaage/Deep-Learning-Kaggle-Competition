@@ -13,15 +13,15 @@ R-studio
 # Process
 BUILD & TRAIN MODEL
 
-Import Data
-Encode Categorical Data
-Create Training and Test Sets
-Apply Feature Scaling
-Fit Model to Training Set
-Predict Test Results
-Create Confusion Matrix
-Measure Accuracy
-Make Predictions
+Import Data,
+Encode Categorical Data,
+Create Training and Test Sets,
+Apply Feature Scaling,
+Fit Model to Training Set,
+Predict Test Results,
+Create Confusion Matrix,
+Measure Accuracy,
+Make Predictions,
 
 RUN TEST ON CHALLENGE DATA
 Export Results
