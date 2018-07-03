@@ -10,21 +10,8 @@ Binary Clasification Artificial Neural Network
 # Built With
 R-studio
 
-# Process
-BUILD & TRAIN MODEL
-
-Import Data,
-Encode Categorical Data,
-Create Training and Test Sets,
-Apply Feature Scaling,
-Fit Model to Training Set,
-Predict Test Results,
-Create Confusion Matrix,
-Measure Accuracy,
-Make Predictions,
-
-RUN TEST ON CHALLENGE DATA
-Export Results
+# BUILD & TRAINING
+Import Data, Encode Categorical Data, Create Training and Test Sets, Apply Feature Scaling, Fit Model to Training Set, Predict Test Results, Create Confusion Matrix, Measure Accuracy, Make Predictions, Run Test on Challenge Data
 
 # Acknowledgments
 H2O.AI, 'h2o-package', https://www.h2o.ai/
