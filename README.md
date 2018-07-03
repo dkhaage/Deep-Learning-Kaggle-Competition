@@ -1,5 +1,5 @@
 # Deep Learning, Kaggle-Competition
-The purpose of this project is to design, build, train and test a deep learning artificial neural network for a machine learning Kaggle hcallenge. https://www.kaggle.com/c/titanicANN 
+The purpose of this project is to design, build, train and test a deep learning artificial neural network for a machine learning Kaggle challenge. https://www.kaggle.com/c/titanicANN 
 
 # Challenge
 Predict passenger survival on the Titanic
